@@ -18,6 +18,8 @@
         "quinary-content": "#1F1922",
         "menu-selected-color": "#FFCE58",
         "icon-button-color": "#FFCE58",
+        "accent": "#7B7EFF",
+        "alert": "#7B7EFF",
         "timeline-text-secondary-color": "#FFFEF7",
         "timeline-highlights-color": "#00000030",
         "reaction-row-button-selected-bg-color": "#FFCE58",
