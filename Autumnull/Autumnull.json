@@ -1,0 +1,37 @@
+{
+    "name": "Autumnull",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#FFCE58",
+        "primary-color": "#2A242D",
+        "warning-color": "#FFA25E",
+        "sidebar-color": "#2A242D",
+        "roomlist-background-color": "#1F1922",
+        "roomlist-text-color": "#FFFEF7",
+        "roomlist-text-secondary-color": "#FFFAF5",
+        "roomlist-highlights-color": "#3F3842",
+        "roomlist-separator-color": "#2A242D",
+        "timeline-background-color": "#2A242D",
+        "timeline-text-color": "#FFFEF7",
+        "secondary-content": "#FFFAF5",
+        "tertiary-content": "#FFFAF5",
+        "timeline-text-secondary-color": "#FFFEF7",
+        "timeline-highlights-color": "#00000030",
+        "reaction-row-button-selected-bg-color": "#FFCE58",
+        "username-colors": [
+            "#FF4783",
+            "#9BF97E",
+            "#FFCE58",
+            "#FFA0FF",
+            "#9BF3E1",
+            "#DBFF9A",
+            "#4E4552",
+            "#FFA25E"
+        ],
+        "avatar-background-colors": [
+            "#9BF97E",
+            "#FFCE58",
+            "#88798F"
+        ]
+    }
+}
